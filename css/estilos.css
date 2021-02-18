@@ -1,0 +1,28 @@
+*{
+    margin: 0%;
+}
+
+.titulo{
+    background-color: rgb(46, 49, 49);
+    border: 1px solid black;
+    text-align: center;
+    padding: 50px;
+    color: aliceblue;
+    font-family: 'Acme', sans-serif;
+   
+}
+body{
+    background-image: url("../imagen/pixel.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.logo{
+    display: grid;
+    margin-left:42%;
+    margin-top: -7%;
+    margin-right:5% ;
+    padding:2%;
+    width: 123px; 
+    height: 155px;
+    border-radius: 300%;
+}
